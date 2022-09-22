@@ -60,3 +60,6 @@ Thumbs.db
 # Test
 test/
 /test/
+
+# Angular
+.angular
